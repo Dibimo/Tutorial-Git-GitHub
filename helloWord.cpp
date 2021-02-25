@@ -1,6 +1,8 @@
 #include <iostream>
 
 void main (){
-	cout << "Hello Word";
-	
+	cout << "Ola Mundo";
+
 }
+return 0;
+	
